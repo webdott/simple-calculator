@@ -1,0 +1,60 @@
+body {
+   background-color: black;
+}
+
+aside {
+   justify-content: center;
+   width: 50%;
+   max-width: 450px;
+   margin: 3% auto;
+}
+
+.title {
+   color: #8f305b;
+   text-align: center;
+   padding: 2px;
+}
+
+#btns {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.buttons, .digits{
+   width : 25%;
+   height: 80px;
+   font-size : 18px;
+   margin : 0px;
+   background-color: black;
+   color: #8f305b;
+   border-style: none;
+}
+
+.digits {
+   color: white;
+}
+
+#btnEql {
+   border: 2px solid #8f305b;
+   border-radius: 2%;
+   color: white;
+   width: 50%;
+}
+
+#res {
+   background-color : #7c8dc1; 
+   border : 1px solid black;
+   border-radius: 5%;
+   height: 90px;
+   font-size : 3rem;
+   text-align: right;
+   padding-right: 3%;
+   padding-top: 10%;
+}
+
+.footer {
+   color: #8f305b;
+   margin-top: 5%;
+   text-align: center;
+}
+
