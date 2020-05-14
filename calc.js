@@ -1,5 +1,5 @@
-const char = ['Clr', 'Del', 'Div', 'Mul', '7', '8', '9', 'Sub', '4', '5', '6', 'Sum', '1','2', '3', 'sm', '0', 'Period', 'Eql',];
-const charText = ['AC', '', '/', 'x', '7', '8', '9', '-', '4', '5', '6', '+', '1','2', '3', '', '0', '.', '=',];
+const char = ['Clr', 'Del', 'Div', 'Mul', '7', '8', '9', 'Sub', '4', '5', '6', 'Sum', '1','2', '3', 'sm', 'Period', '0', 'Eql',];
+const charText = ['AC', '', '/', 'x', '7', '8', '9', '-', '4', '5', '6', '+', '1','2', '3', '', '.', '0', '=',];
 
 const buttonSection = document.getElementById('btns');
 
